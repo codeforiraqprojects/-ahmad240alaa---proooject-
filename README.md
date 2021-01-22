@@ -1,4 +1,5 @@
-# #define light A0
+# 
+#define light A0
 #define an A1
 int v=7;
 int val=0 , value=0,mois=0  ;
