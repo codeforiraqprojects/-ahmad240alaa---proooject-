@@ -1,4 +1,3 @@
-# 
 #define light A0
 #define an A1
 int v=7;
@@ -31,5 +30,3 @@ Serial.print("Soil moisture = %");
  }
  delay(1000);
 }
-ahmad240alaa / proooject 
- 
